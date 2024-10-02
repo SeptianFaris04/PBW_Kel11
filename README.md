@@ -12,3 +12,4 @@ Manajemen perpustakaan digital mengubah perpustakaan dari ruang fisik menjadi pu
 # Penjelasan Usecase, ERD Diagram, Cookies, Session, Rancangan, Koneksi, Implementasi, Testing dan Dokumentasi 
 ---
 ## Usecase
+![Diagram_Class_Perpustakaan drawio](https://github.com/user-attachments/assets/64c9bcd8-b8b5-41d3-bdfa-853723e9cbb7)
