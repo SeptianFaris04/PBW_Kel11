@@ -18,3 +18,4 @@ Manajemen perpustakaan digital mengubah perpustakaan dari ruang fisik menjadi pu
 ![PBW_Perpustakaan_ERD drawio](https://github.com/user-attachments/assets/689346fc-b68f-4346-a4c8-d5f378e8bab5)
 
 ## Usecase
+![Use_Case_Perpustakaan drawio](https://github.com/user-attachments/assets/1dede373-12d2-4396-a704-5ee40ab721ce)
