@@ -25,4 +25,6 @@ Manajemen perpustakaan digital mengubah perpustakaan dari ruang fisik menjadi pu
 ## Database
 ![Tampilan_Database_Perpustakaan](https://github.com/user-attachments/assets/0b00070b-03ac-4da2-a6d9-c3f3001d581e)
 
+## Database.php
+
 
