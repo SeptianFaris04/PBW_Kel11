@@ -19,3 +19,8 @@ Manajemen perpustakaan digital mengubah perpustakaan dari ruang fisik menjadi pu
 
 ## Usecase
 ![Use_Case_Perpustakaan drawio](https://github.com/user-attachments/assets/1dede373-12d2-4396-a704-5ee40ab721ce)
+
+## Rancangan
+---
+## Database
+
